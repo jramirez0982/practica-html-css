@@ -1,0 +1,14 @@
+body{
+    background-color: gainsboro;
+    font-family: roboto;
+}
+
+.post{
+    
+    margin: auto;
+    align-items: center;
+    text-align: center;
+    background-color: white;
+    width: 60%;
+    height: auto;
+}
