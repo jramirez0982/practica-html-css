@@ -12,3 +12,17 @@ body{
     width: 60%;
     height: auto;
 }
+
+.encabezado{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 20px;
+    height: auto;
+    padding: 10px, 0;
+}
+
+.imagen img{
+    width: 100%;
+    height: auto;
+}
