@@ -9,7 +9,7 @@ body{
     align-items: center;
     text-align: center;
     background-color: white;
-    width: 60%;
+    width: 50%;
     height: auto;
     padding: 5px;
 }
@@ -26,4 +26,22 @@ body{
     width: 100%;
     height: auto;
         
+}
+
+
+.iconos{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    font-size: 30px;
+    padding-bottom: 2px;
+}
+
+.texto{
+    text-align: left;
+    padding: 10px;
+    font-size: 15px;
+    margin-top: 2px;
+    padding-top: 0px;
+    padding-left: 10px;
 }
