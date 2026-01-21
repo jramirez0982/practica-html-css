@@ -37,6 +37,12 @@ body{
     padding-bottom: 2px;
 }
 
+.iconos i:hover {
+    color: #ffcc00; /* El color que desees cuando brille */
+    cursor: pointer; /* Cambia el cursor a una mano */
+    transition: color 0.3s ease; /* Hace que el cambio sea suave */
+}
+
 .texto{
     text-align: left;
     padding: 10px;
